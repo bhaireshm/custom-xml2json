@@ -1,15 +1,1 @@
-[
-    "HandlingInstructionCode.json",
-    "ContactTypeCode.json",
-    "CommunicationChannelCode.json",
-    "AdditionalPartyIdentificationTypeCode.json",
-    "DutyFeeTaxTypeCode.json",
-    "FinancialAccountNumberTypeCode.json",
-    "FinancialRoutingNumberTypeCode.json",
-    "LegalRegistrationCode.json",
-    "MeasurementTypeCode.json",
-    "CountryCode.json",
-    "TransportServiceCategoryCode.json",
-    "TransportServiceConditionTypeCode.json",
-    "TransportServiceLevelCode.json"
-]
+["HandlingInstructionCode.json","ContactTypeCode.json","CommunicationChannelCode.json","AdditionalPartyIdentificationTypeCode.json","DutyFeeTaxTypeCode.json","FinancialAccountNumberTypeCode.json","FinancialRoutingNumberTypeCode.json","LegalRegistrationCode.json","MeasurementTypeCode.json","CountryCode.json","TransportServiceCategoryCode.json","TransportServiceConditionTypeCode.json","TransportServiceLevelCode.json","CargoTypeCode.json","PackageTypeCode.json"]
